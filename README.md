@@ -21,3 +21,22 @@ https://kenney.nl/assets/impact-sounds
 
 
 Distributed under CC0 1.0 Universal (CC0 1.0) License
+
+
+I timed myself to ensure honesty.
+
+18:34 Concept Building
+40:19 Asset Collection and Attribution
+1:17:26 Development time
+
+Total: 2:16:19
+
+TODO:
+sliding backgrounds (K.I.S.S.)
+Game Over State
+Intro (basic animation thingy to introduce player)
+Make bounce pads and momentum killers
+Implement scoring system (as a function of time played)
+Build in HTML 5
+Make a pretty Itch.io page
+Submit!!!!
