@@ -1,5 +1,8 @@
 #Trijam 87 Submission
 
+#This Project is Open Source!
+This project is distributed under the MIT License, so feel free to distribute or modify this project for commercial or private use!
+
 #sky.png
 Asset from Mepavi @ You're Perfect Studio https://opengameart.org/content/sky-tiles
 
